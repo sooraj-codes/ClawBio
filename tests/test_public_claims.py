@@ -58,7 +58,6 @@ PRIMACY = re.compile(
 )
 PRIMACY_ALLOWLIST_PREFIXES = (
     "slides/",  # London Bioinformatics Meetup deck, February 2026, as delivered
-    "docs/dorahacks-buidl-submission.md",  # submission text as filed, 5 March 2026
     "tests/test_public_claims.py",
 )
 TEXT_SUFFIXES = {".md", ".txt", ".toml", ".json", ".cff", ".html", ".py", ".yml", ".yaml", ".cfg", ".ini"}
